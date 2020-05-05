@@ -1,7 +1,7 @@
-Progressus - Free business/corporate Bootstrap template
+Skyner- Free business/corporate Bootstrap template
 =============
 
-Progressus is a free, responsive, nice-looking business template based on Bootstrap HTML/CSS framework. 
+Skyner is a free, responsive, nice-looking business template based on Bootstrap HTML/CSS framework. 
 
 
 License
@@ -22,7 +22,7 @@ Bug tracker
 -----------
 
 Found a bug? Please create an issue here on GitHub! 
-https://github.com/pozh/Progressus/issues
+https://github.com/pozh/Skyner/issues
 
 
 Credits
