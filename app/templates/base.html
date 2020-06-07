@@ -37,8 +37,7 @@
 					<li class="dropdown {{ 'active' if active_page == 'project-management' or active_page == 'technical-aspect' or active_page == 'contribute' else ''}}">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Project details <b class="caret"></b></a>
 						<ul class="dropdown-menu">
-							<li class="{{ 'active' if active_page == 'project-management' else '' }}"><a href="{{ url_for('projectManagement') }}">Project management</a></li>
-							<li class="{{ 'active' if active_page == 'technical-aspect' else '' }}"><a href="{{ url_for('technicalAspect') }}">Technical aspects</a></li>
+							<li class="{{ 'active' if active_page == 'More info' else '' }}"><a href="{{ url_for('projectManagement') }}">More Info</a></li>
 							<li class="{{ 'active' if active_page == 'contribute' else '' }}"><a href="{{ url_for('contribute') }}">Contribute</a></li>
 						</ul>
 					</li>
@@ -126,13 +125,7 @@
 						</div>
 					</div>
 
-					<div class="col-md-6 widget">
-						<div class="widget-body">
-							<p class="text-right">
-								Copyright &copy; 2014, Your name. Designed by <a href="http://gettemplate.com/" rel="designer">gettemplate</a>
-							</p>
-						</div>
-					</div>
+
 
 				</div> <!-- /row of widgets -->
 			</div>
